@@ -1,14 +1,10 @@
-<h1 align="center">Hi 👋, I'm Muhammad Hood</h1>
+# Hi 👋, I'm Muhammad Hood
 
-<p align="center">
-  <em>Agentic AI Developer — building multi-agent systems, Personal AI Employees, and Digital FTEs.</em>
-</p>
+**Agentic AI Developer** — building multi-agent systems, Personal AI Employees, and Digital FTEs.
 
-<p align="center">
-  <a href="https://panaversity.org/"><img src="https://img.shields.io/badge/Learning-Agentic%20AI%20%40%20Panaversity-6f42c1?style=flat-square" alt="Panaversity" /></a>
-  <a href="https://www.linkedin.com/in/mhoodkhatri/"><img src="https://img.shields.io/badge/LinkedIn-mhoodkhatri-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:m.hoodkhatri7@gmail.com"><img src="https://img.shields.io/badge/Email-m.hoodkhatri7%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+[![Panaversity](https://img.shields.io/badge/Learning-Agentic%20AI%20%40%20Panaversity-6f42c1?style=flat-square)](https://panaversity.org/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mhoodkhatri-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhoodkhatri/)
+[![Email](https://img.shields.io/badge/Email-m.hoodkhatri7%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:m.hoodkhatri7@gmail.com)
 
 ---
 
@@ -34,13 +30,11 @@ Independent Developer crafting **agentic systems** that act, decide, and deliver
 
 ### 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/OpenAI%20Agents%20SDK-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Agents SDK" />
-  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white" alt="Model Context Protocol" />
-  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
-  <img src="https://img.shields.io/badge/Gemini%20CLI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini CLI" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenAI Agents SDK](https://img.shields.io/badge/OpenAI%20Agents%20SDK-412991?style=for-the-badge&logo=openai&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini CLI](https://img.shields.io/badge/Gemini%20CLI-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ---
 
@@ -63,19 +57,8 @@ Independent Developer crafting **agentic systems** that act, decide, and deliver
 
 ### 🤝 Let's Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mhoodkhatri/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36" height="36" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:m.hoodkhatri7@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" width="36" height="36" alt="Email" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/mhoodkhatri" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" height="36" alt="GitHub" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhoodkhatri/)
+[![Email](https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.hoodkhatri7@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mhoodkhatri)
 
-<p align="center"><sub>✨ Building the agentic future, one repo at a time.</sub></p>
-
+<sub>✨ Building the agentic future, one repo at a time.</sub>
